@@ -1,0 +1,7 @@
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\bin\Debug\Date_operations.exe.config
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\bin\Debug\Date_operations.exe
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\bin\Debug\Date_operations.pdb
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\obj\Debug\Date_operations.csproj.AssemblyReference.cache
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\obj\Debug\Date_operations.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\obj\Debug\Date_operations.exe
+C:\Users\Юрий Острик\source\repos\Date_operations\Date_operations\obj\Debug\Date_operations.pdb
